@@ -1,0 +1,214 @@
+[14-Jul-2018 12:57:34 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 17
+[14-Jul-2018 12:57:34 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 231
+[14-Jul-2018 12:57:34 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 232
+[15-Jul-2018 11:04:19 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 17
+[15-Jul-2018 11:04:19 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 231
+[15-Jul-2018 11:04:19 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 232
+[15-Jul-2018 12:01:47 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 17
+[15-Jul-2018 12:01:47 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 231
+[15-Jul-2018 12:01:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 232
+[15-Jul-2018 17:03:16 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 17
+[15-Jul-2018 17:03:16 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 231
+[15-Jul-2018 17:03:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/demo/aqua/admin/include/header.php on line 232
+[22-Aug-2018 11:12:01 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/mpress/admin/dbfile.php on line 457
+[22-Aug-2018 11:13:04 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/mpress/admin/dbfile.php on line 457
+[22-Aug-2018 11:13:31 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/mpress/admin/dbfile.php on line 457
+[23-Aug-2018 05:31:47 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 17
+[23-Aug-2018 05:31:47 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 236
+[23-Aug-2018 05:31:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 237
+[23-Aug-2018 08:58:33 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 19
+[23-Aug-2018 08:58:33 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 238
+[23-Aug-2018 08:58:33 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/mpress/admin/include/header.php on line 239
+[23-Aug-2018 11:33:27 Etc/GMT] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/digito5t/public_html/pepdecktech.com/mpress/admin/database.php on line 7
+[06-Nov-2018 05:12:22 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 559
+[06-Nov-2018 06:07:32 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 559
+[06-Nov-2018 06:24:47 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 559
+[06-Nov-2018 06:40:16 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 560
+[06-Nov-2018 06:40:16 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 560
+[06-Nov-2018 06:41:38 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 591
+[06-Nov-2018 06:41:48 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 591
+[06-Nov-2018 06:42:37 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 591
+[06-Nov-2018 06:43:10 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 591
+[06-Nov-2018 06:46:07 Etc/GMT] PHP Notice:  Undefined variable: description1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 591
+[06-Nov-2018 06:49:57 Etc/GMT] PHP Notice:  Undefined variable: image in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/delete-img.php on line 357
+[06-Nov-2018 06:57:36 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 238
+[06-Nov-2018 06:57:36 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 239
+[06-Nov-2018 06:57:41 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 238
+[06-Nov-2018 06:57:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 239
+[06-Nov-2018 06:58:55 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[06-Nov-2018 07:12:24 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[06-Nov-2018 07:12:24 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[06-Nov-2018 07:12:27 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[06-Nov-2018 07:12:27 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[06-Nov-2018 07:15:41 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[06-Nov-2018 07:15:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[06-Nov-2018 07:15:44 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[06-Nov-2018 07:15:44 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[06-Nov-2018 07:18:43 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[06-Nov-2018 07:19:16 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[06-Nov-2018 07:19:58 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[06-Nov-2018 07:20:29 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[06-Nov-2018 07:24:34 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[06-Nov-2018 07:27:49 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 04:52:59 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 04:55:07 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 04:58:27 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:03:14 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:09:39 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:21:37 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:24:54 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:27:11 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:30:14 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 561
+[12-Nov-2018 05:49:34 Etc/GMT] PHP Notice:  Undefined variable: image in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/delete-img.php on line 357
+[12-Nov-2018 09:34:48 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 19
+[12-Nov-2018 09:34:48 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[12-Nov-2018 09:34:48 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[12-Nov-2018 09:36:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[12-Nov-2018 09:38:29 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[12-Nov-2018 09:40:31 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/dbfile.php on line 459
+[12-Nov-2018 10:48:23 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 19
+[12-Nov-2018 10:48:23 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[12-Nov-2018 10:48:23 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[12-Nov-2018 10:48:32 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 19
+[12-Nov-2018 10:48:32 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 226
+[12-Nov-2018 10:48:32 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/shelectronics/admin/include/header.php on line 227
+[29-May-2019 10:28:09 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 582
+[29-May-2019 11:03:30 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 582
+[29-May-2019 11:03:30 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/dairy/admin/include/header.php on line 19
+[29-May-2019 11:03:30 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/dairy/admin/include/header.php on line 226
+[29-May-2019 11:03:30 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/dairy/admin/include/header.php on line 227
+[29-May-2019 11:43:12 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 724
+[29-May-2019 12:16:57 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 724
+[29-May-2019 12:30:28 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 724
+[29-May-2019 12:34:55 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 724
+[29-May-2019 12:38:13 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/dairy/admin/dbfile.php on line 724
+[30-May-2019 05:27:42 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:32:53 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:36:44 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:41:15 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:45:04 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:51:12 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 05:55:12 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 05:58:53 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:00:59 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:17:55 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:27:31 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:35:41 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:42:38 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:50:24 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 06:58:17 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:05:24 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:11:10 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:34:23 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:38:51 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:43:35 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 866
+[30-May-2019 07:48:48 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 07:51:24 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 07:55:15 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 07:57:29 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 08:30:28 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 19
+[30-May-2019 08:30:28 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 226
+[30-May-2019 08:30:28 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 227
+[30-May-2019 08:36:18 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 08:42:55 Etc/GMT] PHP Notice:  Undefined variable: profileimg1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 724
+[30-May-2019 09:42:09 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 09:44:15 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 09:45:50 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 09:45:58 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 09:46:04 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 09:46:54 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[30-May-2019 11:59:53 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 19
+[30-May-2019 11:59:53 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 226
+[30-May-2019 11:59:53 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 227
+[31-May-2019 05:26:02 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[31-May-2019 05:28:10 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[31-May-2019 05:29:51 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[31-May-2019 05:29:52 Etc/GMT] PHP Notice:  Undefined variable: description in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 460
+[31-May-2019 07:16:55 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 19
+[31-May-2019 07:16:55 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 226
+[31-May-2019 07:16:55 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 227
+[31-May-2019 07:31:19 Etc/GMT] PHP Notice:  Undefined variable: slider1 in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/dbfile.php on line 501
+[31-May-2019 08:41:57 Etc/GMT] PHP Notice:  Undefined variable: uname in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 19
+[31-May-2019 08:41:57 Etc/GMT] PHP Notice:  Undefined variable: profilepic in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 226
+[31-May-2019 08:41:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/digito5t/public_html/pepdecktech.com/technofab-engineering/admin/include/header.php on line 227
+[07-Oct-2020 14:39:14 UTC] PHP Notice:  Undefined variable: uname in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 19
+[07-Oct-2020 14:39:14 UTC] PHP Notice:  Undefined variable: profilepic in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 233
+[07-Oct-2020 14:39:14 UTC] PHP Notice:  Undefined variable: name in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 234
+[07-Oct-2020 14:41:30 UTC] PHP Notice:  Undefined variable: galleryid in /home/zotia4eai3w6/public_html/ved/admin/dbfile.php on line 1364
+[07-Oct-2020 14:41:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zotia4eai3w6/public_html/ved/admin/dbfile.php on line 1366
+[08-Oct-2020 06:43:03 UTC] PHP Notice:  Undefined variable: uname in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 19
+[08-Oct-2020 06:43:03 UTC] PHP Notice:  Undefined variable: profilepic in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 233
+[08-Oct-2020 06:43:03 UTC] PHP Notice:  Undefined variable: name in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 234
+[10-Oct-2020 10:43:20 UTC] PHP Notice:  Undefined variable: uname in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 19
+[10-Oct-2020 10:43:20 UTC] PHP Notice:  Undefined variable: profilepic in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 233
+[10-Oct-2020 10:43:20 UTC] PHP Notice:  Undefined variable: name in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 234
+[13-Oct-2020 07:00:51 UTC] PHP Notice:  Undefined variable: uname in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 19
+[13-Oct-2020 07:00:51 UTC] PHP Notice:  Undefined variable: profilepic in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 233
+[13-Oct-2020 07:00:51 UTC] PHP Notice:  Undefined variable: name in /home/zotia4eai3w6/public_html/ved/admin/include/header.php on line 234
+[04-Nov-2020 14:03:11 UTC] PHP Notice:  Undefined variable: profileimg1 in /home/zotia4eai3w6/public_html/ved/admin/dbfile.php on line 724
+[29-Dec-2021 02:31:58 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[29-Dec-2021 02:31:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/adminpanel.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:18:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:18:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/adminpanel.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:20:15 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:20:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:20:28 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:20:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:21:05 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:21:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/adminpanel.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:22:40 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:22:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:23:06 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:23:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:23:33 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:23:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:24:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:24:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:25:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:25:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:25:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:25:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:45:01 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:45:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/adminpanel.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:46:08 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:46:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:46:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:46:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:46:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:46:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:47:13 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:47:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:47:20 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:47:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:47:31 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:47:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:47:44 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:47:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:48:08 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:48:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:48:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:48:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:48:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:48:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:48:43 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:48:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:48:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:48:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:49:08 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:49:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:49:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:49:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:49:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:49:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:49:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:49:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:49:55 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:49:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:50:05 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:50:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:50:43 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:50:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:51:02 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:51:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/adminpanel.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15
+[14-Jan-2022 23:53:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 6
+[14-Jan-2022 23:53:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php:1) in /home2/adctegwn/vedpvc.com/webadmintechno/include/header.php on line 15

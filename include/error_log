@@ -1,0 +1,11 @@
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home2/adctegwn/vedpvc.com/include/header.php on line 34
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home2/adctegwn/vedpvc.com/include/header.php on line 34
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/adctegwn/vedpvc.com/include/header.php on line 34
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 36
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 38
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 92
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 93
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 129
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 130
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 168
+[09-Jan-2022 19:01:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/adctegwn/vedpvc.com/include/header.php on line 169
